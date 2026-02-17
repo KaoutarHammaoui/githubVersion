@@ -1,0 +1,6 @@
+[submodule "work/hello"]
+	path = work/hello
+	url = https://learn.zone01oujda.ma/git/khammaou/hello.git
+[submodule "work/cloned_hello"]
+	path = work/cloned_hello
+	url = https://learn.zone01oujda.ma/git/khammaou/cloned_hello.git
